@@ -47,3 +47,6 @@ Connect the photoresistor's pins to D1, and D4, and connect the wire getting pos
 
 
 Also a side note, you might notce that the LCD just won't show the characters, you can fix this by simply moving the potentiometer's front 2 pins to A9 and A11 so that the middle pin gives output
+
+Also here's a video of it working!
+https://youtu.be/eX1QMOH9sbk
